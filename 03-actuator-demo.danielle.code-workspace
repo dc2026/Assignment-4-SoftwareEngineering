@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../03-actuator-demo"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
